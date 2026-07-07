@@ -2,7 +2,7 @@
 
 **Full-Stack & AI Engineer** — building bilingual (Arabic/English) web products with React, Next.js, and LLMs.
 
-🔭 Front-end AI Engineering Intern @ **FlyRank** · 🎓 CS Student @ Lebanese International University · 📍 Beirut, Lebanon
+🔭 Front-end AI Engineering Intern @ **FlyRank** · 🎓 CS Student @ Lebanese International University ·
 
 ---
 
